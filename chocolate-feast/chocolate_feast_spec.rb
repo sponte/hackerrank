@@ -1,4 +1,4 @@
-require_relative 'chocolate_feast'
+require_relative File.basename(__FILE__, '_spec.rb')
 # require 'test/spec'
 
 context ChocolateFeast do
